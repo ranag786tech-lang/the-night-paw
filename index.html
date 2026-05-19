@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>The Night Paw - Complete Edition</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="gameWrapper">
+    <div id="ui">
+        <div>❤️ <span id="healthDisplay">100</span></div>
+        <div>⚡ <span id="scoreDisplay">0</span></div>
+        <div>📊 <span id="stageDisplay">Stage 1</span></div>
+        <div>⏰ <span id="timeDisplay">0:00</span></div>
+        <div>🪙 <span id="coinDisplay">0</span></div>
+        <div>🏆 <span id="achieveDisplay">0</span></div>
+        <div>👹 <span id="bossTimerDisplay">0s</span></div>
+    </div>
+    <div id="controls">
+        <span>SPACE</span>/Tap = Jump | <span>Z</span>/Tap = Attack | <span>X</span> = Dash F | <span>C</span> = Dash B
+    </div>
+    <div id="mobileControls">
+        <div class="mobile-btn" id="btnJump">⬆ JUMP</div>
+        <div class="mobile-btn" id="btnAttack">⚡ ATK</div>
+        <div class="mobile-btn" id="btnDashF">➡️ DASH</div>
+        <div class="mobile-btn" id="btnDashB">⬅️ BACK</div>
+    </div>
+    <canvas id="gameCanvas"></canvas>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
