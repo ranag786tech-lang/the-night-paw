@@ -235,11 +235,7 @@ live-server
 ## 🌐 **LIVE DEMO**
 
 Play the game online:  
-**[https://yourusername.github.io/the-night-paw/](https://yourusername.github.io/the-night-paw/)**
-
-*(Replace with your actual GitHub Pages URL)*
-
----
+https://ranag786tech-lang.github.io/the-night-paw/
 
 ## 📂 **PROJECT STRUCTURE**
 
@@ -330,9 +326,8 @@ SOFTWARE.
 
 ## 📧 **CONTACT**
 
-- **Email** : your.email@example.com
-- **GitHub** : [github.com/yourusername](https://github.com/yourusername)
-- **Twitter** : @yourusername
+- **Email** : ranag786tech@gmail.com
+- **GitHub** :https://ranag786tech-lang.github.io/the-night-paw/
 
 ---
 
